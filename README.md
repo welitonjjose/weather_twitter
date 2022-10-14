@@ -1,24 +1,11 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Wheather Twitter
 
-Things you may want to cover:
 
-* Ruby version
+Search the weather forecast in a city and post it on twitter
 
-* System dependencies
 
-* Configuration
+## Author
 
-* Database creation
+- [@welitonjjose](https://github.com/welitonjjose/)
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...

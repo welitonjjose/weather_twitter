@@ -49,5 +49,5 @@ end
 gem "twitter"
 gem 'dotenv-rails'
 
-gem 'bomtempo', path: '../bomtempo'
+gem 'bomtempo'
 
